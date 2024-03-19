@@ -4,6 +4,7 @@
 
 Gerador de código de barras feito em Python, usando Flask Framework e a biblioteca Barcode
 
+![](Pacienza.png)
 
 ### Passo a passo para gerar Código de Barras
 
@@ -23,4 +24,4 @@ Content-Length: 36
 }
 ```
 
-Conteúdo do código de barras pode ser ==integer== ou ==string==
+Conteúdo do código de barras pode ser `integer` ou `string`
